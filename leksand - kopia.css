@@ -1,0 +1,30 @@
+img.leksand{
+    width: 400px;
+    height: 300px;
+}
+
+.form1{
+    margin-left: 650px;
+}
+img.leksand10{
+    float: left;
+    width: 600px;
+    height: 500px;
+    padding-left: 0px;
+    
+    
+}
+img.leksand9{
+    float:right;
+    width: 600px;
+    height: 500px;
+    
+}
+.h11{
+    text-align: center;
+    background-color: #3f84f2;
+}
+
+.div3{
+    text-align: center;
+}
